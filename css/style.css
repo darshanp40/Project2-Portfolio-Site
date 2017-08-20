@@ -13,7 +13,7 @@ h2 {
 
 .logo-container {
     height: 90px;
-    background: url('/images/profile.jpg');
+    background: url('/img/profile.jpg');
     width: 90px;
     background-size: 120px;
     border-radius: 50%;
@@ -52,15 +52,12 @@ section {
 .base-text {
     text-align: center;
 }
-/* 
-.card-image {
-    max-height: 220px;
-} */
 
 @media screen and (max-width:767px) {
     .logo-container {
         margin: 0 auto;
     }
+    
     .name-container {
         text-align: center;
     }
