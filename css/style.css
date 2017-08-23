@@ -1,5 +1,5 @@
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
 }
 
 #header-container {
@@ -12,14 +12,9 @@ h2 {
 }
 
 .logo-container {
-    height: 90px;
-    background: url('/img/profile.jpg');
-    width: 90px;
-    background-size: 120px;
-    border-radius: 50%;
-    margin: 5px 0 5px 0;
+    width: 240px;
+    margin: 25px 0;
 }
-
 .name-container {
     text-align: right;
     text-transform: uppercase;
